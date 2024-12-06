@@ -1,0 +1,6 @@
+pics/*
+*.db
+*.ipynb
+paos.colorado.edu/*
+*.csv
+*.nc
